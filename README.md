@@ -6,7 +6,7 @@ This repo contains the data and map tile processing used in [hrecht/cherry-bloss
 
 -   [Metro lines](https://opendata.dc.gov/maps/DCGIS::metro-lines-regional/about) and [Metro stations](https://opendata.dc.gov/datasets/DCGIS::metro-stations-regional/about) from Open Data DC. I made updates based on the latest [rail map](https://www.wmata.com/schedules/maps/) from WMATA.
 
-    -   Note: These files had some incorrect and outdated information as of analysis time, mostly related to the Yellow Line changes in 2023. I emailed the Open Data DC to flag this information and they were actively working on updating the files as of mid-March 2024.
+    -   Note: These files had some incorrect and outdated information as of analysis time, mostly related to the Yellow Line changes in 2023. I emailed the Open Data DC team to flag this information and they were actively working on updating the files as of mid-March 2024.
 
     -   I manually edited the yellow line route in QGIS to end at Mt Vernon Square (since updated in the Open Data DC file.)
 
