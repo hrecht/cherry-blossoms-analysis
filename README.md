@@ -1,5 +1,5 @@
 # Cherry blossoms data
-This repo contains the data and map tile processing used in [hrecht/cherry-blossoms](https://github.com/hrecht/cherry-blossoms).
+This repo contains the data and map tile processing used in [hrecht/cherry-blossoms](https://github.com/hrecht/cherry-blossoms) for [https://www.hrecht.com/cherry-blossoms/](https://www.hrecht.com/cherry-blossoms/).
 
 ## Data sources
 -   [2024 cherry blossom tree dataset](https://caseytrees.maps.arcgis.com/apps/webappviewer/index.html?id=0f81cb73aee84c329bef8e2b5b80a200) from [Casey Trees](https://caseytrees.org/)
