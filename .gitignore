@@ -1,0 +1,8 @@
+tiles/
+resources/
+charts/
+*.qgz
+*.zip
+*.qmd
+*.pdf
+*.png
